@@ -6,5 +6,5 @@
 
 -🏳️‍🌈 Pronome: Elu/Delu
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FierceDeGamer&show_icons=true&theme=tokyonight)](https://github.com/FierceDeGamer/github-readme-stats)
+[![Fierce's GitHub stats](https://github-readme-stats.vercel.app/api?username=FierceDeGamer&show_icons=true&theme=tokyonight)](https://github.com/FierceDeGamer/github-readme-stats)
 
